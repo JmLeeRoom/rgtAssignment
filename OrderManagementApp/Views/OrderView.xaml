@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="OrderManagementApp.Views.OrderView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="400">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Orders" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <ListView ItemsSource="{Binding Orders}" Margin="0,5,0,10">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Order ID" DisplayMemberBinding="{Binding OrderId}"/>
+                        <GridViewColumn Header="Table Number" DisplayMemberBinding="{Binding TableNumber}"/>
+                        <GridViewColumn Header="Status" DisplayMemberBinding="{Binding Status}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</UserControl>

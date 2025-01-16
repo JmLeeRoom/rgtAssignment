@@ -1,0 +1,2 @@
+D:\CompanyReport\OrderManagementApp\OrderService\obj\Debug\OrderService.csproj.AssemblyReference.cache
+D:\CompanyReport\OrderManagementApp\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache

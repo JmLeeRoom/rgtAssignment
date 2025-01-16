@@ -1,0 +1,17 @@
+D:\CompanyReport\OrderManagementApp\POSDummySystem\bin\Debug\net8.0\POSDummySystem.exe
+D:\CompanyReport\OrderManagementApp\POSDummySystem\bin\Debug\net8.0\POSDummySystem.deps.json
+D:\CompanyReport\OrderManagementApp\POSDummySystem\bin\Debug\net8.0\POSDummySystem.runtimeconfig.json
+D:\CompanyReport\OrderManagementApp\POSDummySystem\bin\Debug\net8.0\POSDummySystem.dll
+D:\CompanyReport\OrderManagementApp\POSDummySystem\bin\Debug\net8.0\POSDummySystem.pdb
+D:\CompanyReport\OrderManagementApp\POSDummySystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\POSDummySystem.csproj.AssemblyReference.cache
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\POSDummySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\POSDummySystem.AssemblyInfoInputs.cache
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\POSDummySystem.AssemblyInfo.cs
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\POSDummySystem.csproj.CoreCompileInputs.cache
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\POSDummy.3139F56F.Up2Date
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\POSDummySystem.dll
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\refint\POSDummySystem.dll
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\POSDummySystem.pdb
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\POSDummySystem.genruntimeconfig.cache
+D:\CompanyReport\OrderManagementApp\POSDummySystem\obj\Debug\net8.0\ref\POSDummySystem.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSDummySystem", "POSDummySystem\POSDummySystem.csproj", "{D117DADD-ABAD-41C5-8F9F-EF387F7F00D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementApp", "OrderManagementApp\OrderManagementApp.csproj", "{36CD69B6-CE2B-4490-9AFE-6A7BD20E9523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{FD322343-8D16-48C3-B7D1-F81883C2B4B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D117DADD-ABAD-41C5-8F9F-EF387F7F00D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D117DADD-ABAD-41C5-8F9F-EF387F7F00D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D117DADD-ABAD-41C5-8F9F-EF387F7F00D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D117DADD-ABAD-41C5-8F9F-EF387F7F00D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CD69B6-CE2B-4490-9AFE-6A7BD20E9523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CD69B6-CE2B-4490-9AFE-6A7BD20E9523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CD69B6-CE2B-4490-9AFE-6A7BD20E9523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CD69B6-CE2B-4490-9AFE-6A7BD20E9523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD322343-8D16-48C3-B7D1-F81883C2B4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD322343-8D16-48C3-B7D1-F81883C2B4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD322343-8D16-48C3-B7D1-F81883C2B4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD322343-8D16-48C3-B7D1-F81883C2B4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
